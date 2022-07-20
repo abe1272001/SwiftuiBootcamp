@@ -26,6 +26,8 @@
 		0A8067E82886822100A3943C /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8067E72886822100A3943C /* ForEachBootcamp.swift */; };
 		0A8067EA28868B6400A3943C /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8067E928868B6400A3943C /* ScrollViewBootcamp.swift */; };
 		0A8067EC28869BF300A3943C /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8067EB28869BF300A3943C /* GridBootcamp.swift */; };
+		0A8068082887EC9100A3943C /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8068072887EC9100A3943C /* SafeAreaBootcamp.swift */; };
+		0A80680A2888032D00A3943C /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8068092888032D00A3943C /* ButtonBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +51,8 @@
 		0A8067E72886822100A3943C /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		0A8067E928868B6400A3943C /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		0A8067EB28869BF300A3943C /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		0A8068072887EC9100A3943C /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
+		0A8068092888032D00A3943C /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				0A8067E72886822100A3943C /* ForEachBootcamp.swift */,
 				0A8067E928868B6400A3943C /* ScrollViewBootcamp.swift */,
 				0A8067EB28869BF300A3943C /* GridBootcamp.swift */,
+				0A8068072887EC9100A3943C /* SafeAreaBootcamp.swift */,
+				0A8068092888032D00A3943C /* ButtonBootcamp.swift */,
 			);
 			path = SwiftuiBootcamp;
 			sourceTree = "<group>";
@@ -190,8 +196,10 @@
 				0A1F36C72885079C00F7F14A /* FrameBootcamp.swift in Sources */,
 				0A8067E6288675C400A3943C /* InitializerBootcamp.swift in Sources */,
 				0A76892128814C3E00714D75 /* ShapesBootcamp.swift in Sources */,
+				0A8068082887EC9100A3943C /* SafeAreaBootcamp.swift in Sources */,
 				0A768913288139E200714D75 /* ContentView.swift in Sources */,
 				0A8067E82886822100A3943C /* ForEachBootcamp.swift in Sources */,
+				0A80680A2888032D00A3943C /* ButtonBootcamp.swift in Sources */,
 				0A76891F28813B4B00714D75 /* TextBootcamp.swift in Sources */,
 				0A768911288139E200714D75 /* SwiftuiBootcampApp.swift in Sources */,
 				0A1F36CB288542F400F7F14A /* StacksBootcamp.swift in Sources */,
